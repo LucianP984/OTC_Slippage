@@ -67,5 +67,4 @@ streamlit run src/frontend/app.py
 ## ⚠️ Disclaimer
 This software is for educational and analytical purposes only. It is not financial advice. Past performance (historical volatility) does not guarantee future results. Real execution costs may vary due to network latency and high-frequency trading activity.
 
----
-*Built for the Advanced Agentic Coding Project.*
+
